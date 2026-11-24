@@ -1,33 +1,61 @@
 # 📊 SQL Exercises – August 2026
 
-## 📌 Project Overview
+## 📌 Overview
 
-This repository contains a collection of SQL exercises completed in August 2026 to develop and strengthen my SQL skills. The exercises focus on essential SQL concepts, data manipulation, querying techniques, and working with relational datasets.
+A collection of practical SQL exercises focused on building a strong foundation in SQL and understanding how databases are queried and managed. The exercises introduced the basic principles of SQL, including retrieving data, filtering records, performing calculations, applying conditions, and combining information from multiple tables.
 
-The project demonstrates my understanding of SQL fundamentals and my ability to write queries to retrieve, analyse, filter, and combine data.
+The exercises provided an opportunity to explore different SQL statements and functions through practical questions, gradually progressing from fundamental concepts to more advanced querying techniques.
 
-## ⚙️ Topics Covered
+## 📚 Topics Covered
 
-The repository is organised into six exercises:
+**1. SQL Fundamentals**
+- Understanding basic SQL syntax and query structure.
+- Retrieving data using SELECT.
+- Filtering records using WHERE.
+- Sorting results using ORDER BY.
+- Limiting query results.
 
-1. **SQL Fundamentals** – Understanding basic SQL syntax and retrieving data using SQL queries.
-2. **SQL Aggregates and Operators** – Working with aggregate functions and operators to perform calculations and filter data.
-3. **SQL CASE Statements** – Applying conditional logic to categorise and evaluate data.
-4. **SQL Joins** – Combining data from multiple tables using different join techniques.
-5. **SQL NULL Functions** – Handling missing or NULL values in datasets.
-6. **SQL Unions** – Combining results from multiple SELECT statements using UNION operations.
+**2. SQL Aggregates and Operators**
+- Working with aggregate functions such as COUNT, SUM, AVG, MIN and MAX.
+- Using comparison and logical operators.
+- Grouping records using GROUP BY.
+- Filtering grouped results using HAVING.
+
+**3. SQL CASE Statements**
+- Applying conditional logic within SQL queries.
+- Using WHEN and THEN to evaluate conditions.
+- Creating categories based on specified criteria.
+- Using ELSE to handle alternative conditions.
+
+**4. SQL Joins**
+- Understanding relationships between database tables.
+- Combining information from multiple tables.
+- Working with different JOIN techniques.
+- Identifying matching records across tables.
+
+**5. SQL NULL Functions**
+- Understanding NULL values in databases.
+- Identifying missing or unavailable information.
+- Applying NULL functions to handle missing values.
+- Improving query results when working with incomplete data.
+
+**6. SQL Unions**
+- Combining results from multiple SELECT statements.
+- Understanding the difference between UNION and UNION ALL.
+- Working with queries that return compatible columns.
+- Removing duplicate records when combining results.
 
 ## 🔄 Learning Process
 
-The exercises were completed progressively, starting with fundamental SQL concepts and moving towards more advanced querying techniques. Each exercise included practical questions designed to improve my understanding and ability to apply SQL in data-related scenarios.
+The exercises followed a structured learning approach, beginning with basic SQL commands before introducing aggregation, conditional statements, joins, NULL functions and unions. Each section included practical questions that encouraged the application of SQL concepts and improved familiarity with writing and understanding queries.
 
 ## 🛠️ Tools Used
 
-- **SQL** – Writing and executing queries.
-- **GitHub** – Storing, organising, and documenting SQL exercises.
+- **SQL** – Writing queries and working with database concepts.
+- **GitHub** – Organising and maintaining exercise files and SQL scripts.
 
-## 🎯 Project Summary
+## 🎯 Summary
 
-This project represents my continued development in SQL and data analytics. Through practical exercises, I gained experience working with different SQL functions, conditional statements, table relationships, and data retrieval techniques.
+The exercises covered essential SQL concepts and provided practical exposure to database querying techniques. The topics established a foundation in retrieving, filtering, sorting, aggregating and combining data, as well as applying conditional logic and handling missing values.
 
-These exercises provide a foundation for applying SQL to real-world data analysis projects.
+These fundamental skills are important for further learning and practical application in data analytics and database management.
